@@ -1,0 +1,1 @@
+export const Successful = require('./successful.json')
